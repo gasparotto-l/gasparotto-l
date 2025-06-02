@@ -4,7 +4,7 @@
 
 <br>
 
-Descrição sobre vc
+Cursando o ensino superior em Design de Mídias Digitais.
 
 <br>
 
@@ -26,8 +26,8 @@ Descrição sobre vc
 
 ### 📞 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](www.linkedin.com/in/luiz-henrique-gasparotto-2b19282aa)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:gasparottoluizhenrique@gmail.com)
 
 ---
  
